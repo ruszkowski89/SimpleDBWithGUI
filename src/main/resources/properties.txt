@@ -1,0 +1,3 @@
+dbUrl = jdbc:mysql://localhost:3306/demo?useSSL=false&autoReconnect=true&useLegacyDatetimeCode=false&serverTimezone=CET
+userName = kekoludek
+password = mama44
