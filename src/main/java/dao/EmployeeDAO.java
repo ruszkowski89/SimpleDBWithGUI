@@ -73,6 +73,7 @@ public class EmployeeDAO {
             if (preparedStatement != null)
                 preparedStatement.close();
         }
+
         return employeesList;
     }
 

@@ -19,14 +19,13 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
-            "id=" + id +
+        return "id=" + id +
             ", lastName='" + lastName + '\'' +
             ", firstName='" + firstName + '\'' +
             ", email='" + email + '\'' +
             ", department='" + department + '\'' +
             ", salary=" + salary +
-            '}';
+            "\n";
     }
 
     public int getId() {
